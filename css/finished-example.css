@@ -4,10 +4,9 @@ h2 {
   padding-bottom: 5px;
 }
 h1 {
-  border-bottom: 2px solid black;
+  color: red;
 }
 h2 {
-  color: black;
   border-bottom: 1px solid black;
 }
 p, ul, li {
